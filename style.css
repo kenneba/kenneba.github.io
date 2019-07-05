@@ -21,7 +21,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("/Header.jpg");
+  background-image: url("https://github.com/kenneba/kenneba.github.io/blob/master/header.jpg");
   background-size: cover;
   height: 100%;
 }
